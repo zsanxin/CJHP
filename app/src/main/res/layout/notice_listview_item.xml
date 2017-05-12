@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/img_notice_icon"
+        android:layout_width="@dimen/x125"
+        android:layout_height="@dimen/x100"
+        app:placeholderImage="@drawable/imgv_default"
+        app:placeholderImageScaleType="fitCenter"
+        app:failureImage="@drawable/imgv_default"
+        app:failureImageScaleType="fitCenter"
+        app:actualImageScaleType="focusCrop"
+        android:layout_marginTop="@dimen/x20"
+        android:layout_marginBottom="@dimen/x20" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x100"
+        android:layout_marginLeft="@dimen/x15"
+        android:layout_marginTop="@dimen/x20"
+        android:layout_marginBottom="@dimen/x20"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/text_notice_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:text="长嘉汇购物公园盛大开业"
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:id="@+id/text_notice_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/text_notice_title"
+            android:layout_above="@+id/text_notice_data"
+            android:gravity="center_vertical"
+            android:textSize="14sp"
+            android:text="长嘉汇购物公园盛大开业"
+            android:lines="1"
+            android:textColor="@color/a808080"/>
+
+        <TextView
+            android:id="@+id/text_notice_data"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:textSize="14sp"
+            android:gravity="right|bottom"
+            android:text="2017-4-18"
+            android:lines="1"
+            android:textColor="@color/a808080"/>
+
+    </RelativeLayout>
+
+</LinearLayout>

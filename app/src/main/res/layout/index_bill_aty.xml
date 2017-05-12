@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="#EBEBEB"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/top_title"></include>
+
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/x10"
+        android:layout_marginRight="@dimen/x10"
+        android:layout_marginTop="@dimen/x10"
+        android:scrollbars="none"
+        android:dividerHeight="@dimen/x10"
+        android:divider="#EBEBEB">
+
+    </ListView>
+
+</LinearLayout>

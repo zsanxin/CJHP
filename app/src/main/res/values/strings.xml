@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">RLP互动平台</string>
+
+    <!-- 绑定邮箱-->
+    <string name="bind_mailbox">绑定邮箱</string>
+    <string name="bind_mailbox_prompt">请绑定邮箱，以备忘记密码时找回密码</string>
+    <string name="bind_mailbox_hint_text">请输入...</string>
+    <string name="bind_mailbox_button_text">下一步</string>
+    <string name="bind_mailbox_code">验证码</string>
+    <string name="bind_mailbox_sure">确 认</string>
+    <!-- 修改密码-->
+    <string name="modify_password">修改密码</string>
+    <!-- 密保邮箱-->
+    <string name="security_mailbox">密保邮箱</string>
+    <string name="mailbox_prompt">你已绑定以下邮箱</string>
+    <string name="mailbox_change_bind">更改绑定</string>
+    <string name="mailbox_security_prompt">涉及账号安全，验证码将发送至以下邮箱</string>
+    <string name="mailbox_login_prompt">请登录邮箱，输入邮件内的验证码</string>
+    <!-- 手势密码-->
+    <string name="gesture_password">手势密码</string>
+    <string name="gesture_password_prompt">绘制新的解锁图案</string>
+    <!-- 公告通知-->
+    <string name="index_notice">公告通知</string>
+    <string name="notice_orange">公告</string>
+    <string name="notice_red">通知</string>
+    <!-- 报事报修-->
+    <string name="index_postit">报事报修</string>
+    <!-- 投诉建议-->
+    <string name="index_complaint">投诉建议</string>
+    <!-- 我的账单-->
+    <string name="index_bill">我的账单</string>
+
+
+    <string name="notice_content">\u0020\u0020\u0020\u0020啊是当今科技</string>
+</resources>

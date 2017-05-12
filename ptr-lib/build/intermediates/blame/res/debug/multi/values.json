@@ -1,0 +1,583 @@
+[
+    {
+        "outputFile": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 19,
+                    "endColumn": 19,
+                    "endOffset": 644
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endLine": 27,
+                        "endColumn": 19,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 649,
+                    "endLine": 25,
+                    "endColumn": 20,
+                    "endOffset": 856
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 8,
+                        "endColumn": 20,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 861,
+                    "endLine": 41,
+                    "endColumn": 19,
+                    "endOffset": 1374
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 893,
+                        "endLine": 44,
+                        "endColumn": 19,
+                        "endOffset": 1421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1379,
+                    "endColumn": 44,
+                    "endOffset": 1419
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 44,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1424,
+                    "endColumn": 45,
+                    "endOffset": 1465
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 194,
+                        "endColumn": 45,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1470,
+                    "endColumn": 41,
+                    "endOffset": 1507
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 41,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1512,
+                    "endColumn": 46,
+                    "endOffset": 1554
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 46,
+                        "endOffset": 188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3371,
+                    "endColumn": 57,
+                    "endOffset": 3424
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3429,
+                    "endColumn": 55,
+                    "endOffset": 3480
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3485,
+                    "endColumn": 62,
+                    "endOffset": 3543
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 62,
+                        "endOffset": 268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3548,
+                    "endColumn": 62,
+                    "endOffset": 3606
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 338,
+                        "endColumn": 62,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3611,
+                    "endColumn": 60,
+                    "endOffset": 3667
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 60,
+                        "endOffset": 332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3672,
+                    "endColumn": 51,
+                    "endOffset": 3719
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 139,
+                        "endColumn": 47,
+                        "endOffset": 186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3724,
+                    "endColumn": 49,
+                    "endOffset": 3769
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 53,
+                        "endColumn": 45,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3774,
+                    "endColumn": 41,
+                    "endOffset": 3811
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 0,
+                        "startOffset": 100,
+                        "endColumn": 37,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3816,
+                    "endColumn": 57,
+                    "endOffset": 3869
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\cube_core_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 57,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3874,
+                    "endColumn": 52,
+                    "endOffset": 3922
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 538,
+                        "endColumn": 57,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3927,
+                    "endColumn": 55,
+                    "endOffset": 3978
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 355,
+                        "endColumn": 60,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3983,
+                    "endColumn": 54,
+                    "endOffset": 4033
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 477,
+                        "endColumn": 59,
+                        "endOffset": 532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4038,
+                    "endColumn": 49,
+                    "endOffset": 4083
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 49,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4088,
+                    "endColumn": 62,
+                    "endOffset": 4146
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 62,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4151,
+                    "endColumn": 59,
+                    "endOffset": 4206
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 59,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4211,
+                    "endColumn": 54,
+                    "endOffset": 4261
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 54,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4266,
+                    "endColumn": 60,
+                    "endOffset": 4322
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 60,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4327,
+                    "endColumn": 53,
+                    "endOffset": 4376
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 417,
+                        "endColumn": 58,
+                        "endOffset": 471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4381,
+                    "endColumn": 74,
+                    "endOffset": 4451
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\cube_core_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 74,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4456,
+                    "endColumn": 64,
+                    "endOffset": 4516
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\cube_core_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 403,
+                        "endColumn": 64,
+                        "endOffset": 463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4521,
+                    "endColumn": 66,
+                    "endOffset": 4583
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\cube_core_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endColumn": 66,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 4588,
+                    "endColumn": 72,
+                    "endOffset": 4656
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\cube_core_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 72,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4661,
+                    "endColumn": 63,
+                    "endOffset": 4720
+                },
+                "from": {
+                    "file": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\values\\cube_core_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 120,
+                        "endColumn": 63,
+                        "endOffset": 179
+                    }
+                }
+            }
+        ]
+    }
+]

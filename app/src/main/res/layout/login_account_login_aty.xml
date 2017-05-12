@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/x80"
+        android:background="@drawable/img_login_logo" />
+
+    <EditText
+        android:id="@+id/edit_account"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x65"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="@dimen/x40"
+        android:layout_marginRight="@dimen/x40"
+        android:layout_marginTop="@dimen/x60"
+        android:background="@drawable/login_edit_bg"
+        android:hint="账号"
+        android:paddingLeft="@dimen/x30"
+        android:textColorHint="@color/ab2b2b2" />
+
+    <EditText
+        android:id="@+id/edit_password"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x65"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/x20"
+        android:layout_marginLeft="@dimen/x40"
+        android:layout_marginRight="@dimen/x40"
+        android:background="@drawable/login_edit_bg"
+        android:inputType="textPassword"
+        android:hint="密码"
+        android:paddingLeft="@dimen/x30"
+        android:textColorHint="@color/ab2b2b2" />
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="@dimen/x390"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/x20"
+        android:background="@drawable/login_btn_bg"
+        android:text="立即登陆"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:id="@+id/ll_longin_bottom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/x30"
+        android:visibility="gone"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/text_forget_password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="忘记密码? "
+            android:textColor="@color/a808080"
+            android:textSize="13sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="|"
+            android:textColor="@color/a808080"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/text_gesture_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" 手势登陆"
+            android:textColor="@color/a808080"
+            android:textSize="13sp" />
+
+    </LinearLayout>
+
+</LinearLayout>

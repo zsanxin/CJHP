@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/top_title"></include>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/a656565"
+        android:layout_marginTop="@dimen/x30"
+        android:layout_marginBottom="@dimen/x30"
+        android:textSize="14sp"
+        android:text="@string/mailbox_prompt"/>
+
+    <TextView
+        android:id="@+id/text_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/black"
+        android:layout_marginBottom="@dimen/x30"
+        android:textSize="16sp"/>
+
+
+    <Button
+        android:id="@+id/btn_next"
+        android:layout_width="match_parent"
+        android:layout_marginTop="@dimen/x30"
+        android:layout_marginLeft="@dimen/x20"
+        android:layout_marginRight="@dimen/x20"
+        android:textColor="@color/white"
+        android:text="更改绑定"
+        android:background="@drawable/bind_mailbox_orange_button_bg"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

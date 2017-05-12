@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\build\\intermediates\\res\\merged\\debug\\layout\\cube_views_load_more_default_footer.xml",
+        "source": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\layout\\cube_views_load_more_default_footer.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_classic_default_header.xml",
+        "source": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\layout\\cube_ptr_classic_default_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_simple_loading.xml",
+        "source": "E:\\Android\\AndroidProject\\CJHP\\ptr-lib\\res\\layout\\cube_ptr_simple_loading.xml"
+    }
+]

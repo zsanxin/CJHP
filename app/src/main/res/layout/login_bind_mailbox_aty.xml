@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/top_title"></include>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/a656565"
+        android:layout_marginTop="@dimen/x30"
+        android:layout_marginBottom="@dimen/x30"
+        android:textSize="14sp"
+        android:text="@string/bind_mailbox_prompt"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/x20"
+        android:layout_marginRight="@dimen/x20"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bind_mailbox"
+            android:textColor="@color/a323232"
+            android:textSize="14sp"
+            android:padding="@dimen/x15"
+            android:background="@drawable/bind_mailbox_text_bg"/>
+
+        <EditText
+            android:id="@+id/edit_bind_mailbox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:padding="@dimen/x15"
+            android:hint="@string/bind_mailbox_hint_text"
+            android:background="@drawable/bind_mailbox_edit_bg"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_bind_mailbox_next"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bind_mailbox_button_text"
+        android:background="@drawable/bind_mailbox_gray_button_bg"
+        android:textColor="@color/aBDBDBD"
+        android:layout_marginTop="@dimen/x30"
+        android:layout_marginLeft="@dimen/x20"
+        android:layout_marginRight="@dimen/x20"/>
+
+
+</LinearLayout>

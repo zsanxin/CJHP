@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/x20"
+        android:layout_marginRight="@dimen/x20"
+        android:background="@drawable/postit_picture_bottom_popu_bg"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/text_photograph"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:padding="@dimen/x12"
+            android:gravity="center"
+            android:text="拍照"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="#EAEAEA"/>
+
+        <TextView
+            android:id="@+id/text_album"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:padding="@dimen/x12"
+            android:gravity="center"
+            android:text="相册"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/text_pic_cancle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/y10"
+        android:layout_marginLeft="@dimen/x20"
+        android:layout_marginRight="@dimen/x20"
+        android:layout_marginBottom="@dimen/y10"
+        android:background="@drawable/postit_picture_bottom_popu_bg"
+        android:textSize="15sp"
+        android:textColor="@color/ae8603b"
+        android:padding="@dimen/x12"
+        android:gravity="center"
+        android:text="取消"/>
+
+</LinearLayout>

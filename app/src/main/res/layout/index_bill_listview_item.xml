@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/x20"
+        android:layout_marginRight="@dimen/x20"
+        android:layout_marginTop="@dimen/x20"
+        android:background="@drawable/index_list_item_bg"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FAFAFA"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="@dimen/x10"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/x10"
+                android:layout_gravity="center"
+                android:background="@drawable/img_bill_paybles_icon"/>
+
+            <TextView
+                android:id="@+id/text_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:padding="@dimen/x10"
+                android:textColor="@color/black"
+                android:text="【2月】长嘉汇购物公园商户缴费通知单"/>
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="#EAEAEA"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_marginTop="@dimen/x10"
+                android:layout_marginBottom="@dimen/x5"
+                android:layout_marginLeft="@dimen/x30"
+                android:textColor="#696969"
+                android:text="租赁物业："/>
+
+            <TextView
+                android:id="@+id/text_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="L5-06（谢伟）"
+                android:layout_gravity="center"
+                android:textColor="#696969"
+                android:textSize="15sp"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_marginTop="@dimen/x5"
+                android:layout_marginBottom="@dimen/x10"
+                android:layout_marginLeft="@dimen/x30"
+                android:textColor="#696969"
+                android:text="总计（不含滞纳金）："/>
+
+            <TextView
+                android:id="@+id/text_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="20000"
+                android:layout_gravity="center"
+                android:textColor="#696969"
+                android:textSize="15sp"/>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="3px"
+            android:layout_marginLeft="@dimen/x20"
+            android:layout_marginRight="@dimen/x20"
+            android:layerType="software"
+            android:background="@drawable/shape_line_gray_2"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/text_data1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_marginTop="@dimen/x5"
+                android:layout_marginBottom="@dimen/x5"
+                android:layout_marginLeft="@dimen/x30"
+                android:textColor="@color/black"
+                android:text="出单日期："/>
+
+            <TextView
+                android:id="@+id/text_data"
+                android:layout_toRightOf="@+id/text_data1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2017-4-20"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center"
+                android:textColor="@color/black"
+                android:textSize="15sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/ec9000"
+                android:layout_marginRight="@dimen/x10"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:text="【详情】"/>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

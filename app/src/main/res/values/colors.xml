@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 主页-->
+    <color name="ec9000">#EC9000</color>
+    <color name="aff8095">#ff8095</color>
+    <color name="ab369c2">#B369C2</color>
+    <color name="a53cfc4">#53cfc4</color>
+    <color name="a808080">#808080</color>
+    <color name="ab2b2b2">#b2b2b2</color>
+    <color name="ae6e6e6">#e6e6e6</color>
+    <color name="ab3b3b3">#b3b3b3</color>
+    <color name="a888888">#888888</color>
+    <color name="af5f5f5">#f5f5f5</color>
+    <color name="ff8095">#FF8095</color>
+    <color name="a656565">#656565</color>
+    <color name="aBDBDBD">#BDBDBD</color>
+    <color name="a343434">#343434</color>
+    <color name="ae2e2e2">#e2e2e2</color>
+    <color name="a555555">#555555</color>
+    <color name="ae8603b">#E8603B</color>
+    <color name="ae4e4e4">#E4E4E4</color>
+    <color name="ad1d1d1">#D1D1D1</color>
+    <color name="a323232">#323232</color>
+</resources>
